@@ -1,7 +1,8 @@
 ---
 date: '2020-07-01'
 title: 'Technical Core Committee Member'
-company: 'IEEE - WIE'
+company: 'IEEE - Women in Engineering'
+company_short: 'IEEE-WIE'
 location: 'Vellore, TN'
 range: 'July 2020 - May 2022'
 url: 'https://vit.ac.in/'

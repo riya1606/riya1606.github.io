@@ -1,5 +1,5 @@
 ---
-date: '2015-12-20'
+date: '2023-07-01'
 title: 'Linux C Shell'
 github: 'https://github.com/riya1606/Linux-C-Shell'
 external: 'https://github.com/riya1606/Linux-C-Shell/'

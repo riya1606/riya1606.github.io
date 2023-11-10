@@ -1,7 +1,8 @@
 ---
 date: '2021-05-01'
 title: 'Machine Learning Intern'
-company: 'IOCL'
+company_short: 'IOCL'
+company: 'Indian Oil Corp. Ltd.'
 location: 'Noida'
 range: 'May 2021 - July 2021'
 url: 'https://iocl.com/'

@@ -1,5 +1,5 @@
 ---
-date: '2023-08-01'
+date: '2023-06-01'
 title: 'Farmery'
 github: 'https://github.com/riya1606/Farmery'
 external: 'https://github.com/riya1606/Farmery'

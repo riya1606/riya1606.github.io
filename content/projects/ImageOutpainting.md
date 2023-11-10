@@ -1,5 +1,5 @@
 ---
-date: '2023-09-01'
+date: '2023-08-01'
 title: 'Image Outpainting'
 github: 'https://github.com/riya1606/Image_Outpainting'
 external: 'https://github.com/riya1606/Image_Outpainting'

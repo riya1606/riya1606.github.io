@@ -1,7 +1,8 @@
 ---
 date: '2019-11-01'
 title: 'Core Committee Member'
-company: 'CSED'
+company: 'Centre for Social Entrepreneurship and Development'
+company_short: 'CSED'
 location: 'Vellore, TN'
 range: 'Nov 2019 - April 2021'
 url: 'https://vit.ac.in/'

@@ -2,6 +2,7 @@
 date: '2021-01-01'
 title: 'Student Mentor'
 company: 'Technovation'
+company_short: 'Technovation'
 location: 'Remote'
 range: 'Jan 2021 - April 2021'
 url: 'https://www.technovation.org/'

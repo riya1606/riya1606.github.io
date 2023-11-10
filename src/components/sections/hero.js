@@ -61,28 +61,17 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Riya Raj.</h2>;
-  const three = <h3>creating a more inclusive world through technology</h3>;
+  const three = <h3 className="big-heading">I create a more inclusive world through technology</h3>;
   const four = (
     <>
       <p>
-      I'm a software engineer at <a href="https://www.jpmorganchase.com/"
-      target="_blank">
-        JPMorgan Chase & Co.
-        </a> with a keen interest in Natural Language Processing. 
-      I focus on crafting digital solutions that blend technology and innovation seamlessly. 
-      With a commitment to pushing boundaries, my experience contributes to transformative solutions in the ever-evolving tech landscape.
+      As a Software Engineer deeply passionate about <b>Natural Language Processing</b>, 
+      I specialize in developing digital solutions that seamlessly integrate technology and innovation. 
+      With a commitment to pushing boundaries, my experience contributes to transformative solutions in 
+      the ever-evolving tech landscape.
       </p>
     </>
   );
-  // const five = (
-  //   <a
-  //     className="email-link"
-  //     href="https://www.newline.co/courses/build-a-spotify-connected-app"
-  //     target="_blank"
-  //     rel="noreferrer">
-  //     Check out my course!
-  //   </a>
-  // );
 
   const items = [one, two, three, four];
 

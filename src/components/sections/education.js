@@ -176,6 +176,7 @@ const Education = () => {
             frontmatter {
               title
               company
+              company_short
               location
               range
               url
@@ -249,7 +250,7 @@ const Education = () => {
         <StyledTabList role="tablist" aria-label="Education tabs" onKeyDown={e => onKeyDown(e)}>
           {educationData &&
             educationData.map(({ node }, i) => {
-              const { company } = node.frontmatter;
+              const { company_short } = node.frontmatter;
               return (
                 <StyledTabButton
                   key={i}
@@ -261,7 +262,7 @@ const Education = () => {
                   tabIndex={activeTabId === i ? '0' : '-1'}
                   aria-selected={activeTabId === i ? true : false}
                   aria-controls={`panel-${i}`}>
-                  <span>{company}</span>
+                  <span>{company_short}</span>
                 </StyledTabButton>
               );
             })}

@@ -1,6 +1,7 @@
 ---
 date: '2020-06-01'
 title: 'Product Marketing Intern'
+company_short: 'Scaler Academy'
 company: 'Scaler Academy'
 location: 'Bengaluru, KA'
 range: 'June 2020 - Aug 2020'

@@ -139,28 +139,23 @@ const About = () => {
             </p>
             <p>
               I have been intrigued by technology since my early childhood and consider it to be an important
-              tool to solve societal problems. Fueled by curiosity and a strong problem-solving aptitude, 
+              tool to solve societal problems. Fueled by curiosity and a solid problem-solving aptitude, 
               my interest in technology is driven by a desire to make a meaningful impact. 
             </p>
             <p>
-              I am currently working as a software developer at JPMorgan Chase & Co. in Hyderabad, India where I 
-              leverage technology to create impactful and powerful applications.
-              My work revolves around NLP and Machine Learning. 
+              I am currently working as a software developer at <a href='https://www.jpmorgan.com/global'>JPMorgan Chase & Co.</a> in Hyderabad, India, where I 
+              leverage technology to create impactful and robust applications. I hold a <b>Bachelor of Technology</b>  in <b>Computer Science and Engineering</b> from <a href='https://vit.ac.in/'>Vellore Institute of Technology, Vellore</a>. 
+              My work revolves around <b>Natural Language Processing</b> and <b>Machine Learning</b>. 
+              </p>
+              <p>
               Beyond my core expertise, I bring extensive proficiency in Python, Java, React, Blockchain Technologies, Dart, SQL, and R. 
               Join me on a journey where expertise meets ingenuity, shaping the future of technological solutions.
             </p>
-            <p>
-              Apart from science, I have an artistic inclination toward dance and recording podcasts.
+            <p> 
+              In addition to my scientific pursuits, I possess a creative inclination manifested through my passion for dance and the art of podcast production.
             </p>
-            <p>For more details you can access  my resume here!</p>
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
-
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
         </StyledText>
-
         <StyledPic>
           <div className="wrapper">
             <StaticImage

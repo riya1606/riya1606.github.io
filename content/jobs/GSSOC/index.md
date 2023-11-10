@@ -1,7 +1,8 @@
 ---
 date: '2021-02-01'
 title: 'Open Source Contributor'
-company: 'GSSOC'
+company: 'GirlScript Summer of Code'
+company_short: 'GSSOC'
 location: 'Remote'
 range: 'Feb 2021 - June 2021'
 url: 'https://gssoc.girlscript.tech/'

@@ -1,9 +1,10 @@
 ---
 date: '2022-08-01'
 title: 'Research Intern'
-company: 'VIT'
+company_short: 'VIT'
+company: 'Vellore Institute of Technology'
 location: 'Vellore, TN'
-range: 'July - December 2017'
+range: 'Aug 2021 - Aug 2023'
 url: 'https://vit.ac.in/'
 ---
 

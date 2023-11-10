@@ -1,7 +1,8 @@
 ---
 date: '2022-09-01'
 title: 'Machine Learning Intern'
-company: 'ISB'
+company_short: 'ISB'
+company: 'Indian School of Business, Hyderabad'
 location: 'Hyderabad, TS'
 range: 'Sep 2022 - Feb 2023'
 url: 'https://us.mullenlowe.com/'
@@ -9,7 +10,7 @@ url: 'https://us.mullenlowe.com/'
 
 
 #### India Data Portal 2.0: 
-- Collaborated with Prof. Ashwini Chhatre on the India Data Portal 2.0 project, funded by the Bill and Melinda Gates Foundation, to gather valuable insights from government data.
+- Collaborated with [Prof. Ashwini Chhatre](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/ashwini-chhatre.html) on the [India Data Portal](https://indiadataportal.com/) project, funded by the Bill and Melinda Gates Foundation, to gather valuable insights from government data.
 - Spearheaded data scraping efforts from diverse Indian Government Departments, demonstrating expertise in Python scripting and Selenium for efficient data extraction.
 - Employed advanced data visualization techniques to transform raw data into actionable insights, aiding decision-making and policy formulation.
 #### Initiative on Forest Economy:
