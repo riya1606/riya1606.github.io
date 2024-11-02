@@ -15,10 +15,6 @@ var plugins = [{
       plugin: require('/Users/riyaraj/Desktop/riya1606.github.io/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[],"output":"/sitemap","createLinkInHead":true,"entryLimit":45000,"query":"{ site { siteMetadata { siteUrl } } allSitePage { nodes { path } } }","excludes":[]},
     },{
-      name: 'gatsby-plugin-manifest',
-      plugin: require('/Users/riyaraj/Desktop/riya1606.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Brittany Chiang","short_name":"Brittany Chiang","start_url":"/","background_color":"#213054","theme_color":"#5174c8","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"7e9b8ed664dadfeb1805dcad794a827e"},
-    },{
       name: 'gatsby-plugin-offline',
       plugin: require('/Users/riyaraj/Desktop/riya1606.github.io/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},

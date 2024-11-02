@@ -5,9 +5,6 @@ module.exports = [{
       plugin: require('../node_modules/gatsby-plugin-image/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Brittany Chiang","short_name":"Brittany Chiang","start_url":"/","background_color":"#213054","theme_color":"#5174c8","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"7e9b8ed664dadfeb1805dcad794a827e"},
-    },{
       plugin: require('../node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
